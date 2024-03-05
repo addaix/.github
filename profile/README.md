@@ -10,6 +10,7 @@ Making it easier to make AI-enabled applications.
 
 ## Private
 
+* [projects](https://github.com/orgs/addaix/projects?query=is%3Aopen)
 * [logs](https://github.com/addaix/priv_addix/tree/main/logs)
 * [raglab_app](https://github.com/addaix/raglab_app)
 * [priv_addix](https://github.com/addaix/priv_addix)
