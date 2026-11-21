@@ -37,7 +37,3 @@ Making it easier to make AI-enabled applications: open-source Python (and some T
 * [penlike](https://github.com/addaix/penlike): model how an author writes
 * [ideadump](https://github.com/addaix/ideadump): capture and research ideas
 
-## Team
-
-* [projects](https://github.com/orgs/addaix/projects?query=is%3Aopen)
-* [raglab_app](https://github.com/addaix/raglab_app), [srag](https://github.com/addaix/srag), [priv_addix](https://github.com/addaix/priv_addix) (private)
